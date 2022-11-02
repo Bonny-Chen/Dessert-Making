@@ -1,4 +1,5 @@
 # Dessert-Making
+## Intro
 現今譜大多為文字或影片，不只文字敘不夠準確且影片教學須不斷暫停、前進、後退觀看，極其不易。
 因此本專題結合AR眼鏡、Unity和Android，亦結合語音辨識、OpenCV顏色辨識等。
 使用者帶上AR眼鏡藉由Vuforia的ARcamera識別特定鍋具，觀看AR動畫，也可使用語音辨識來進行操作。
