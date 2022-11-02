@@ -1,3 +1,4 @@
 *.unitypackage filter=lfs diff=lfs merge=lfs -text
 dessert.apk filter=lfs diff=lfs merge=lfs -text
+.apk filter=lfs diff=lfs merge=lfs -text
 *.apk filter=lfs diff=lfs merge=lfs -text
