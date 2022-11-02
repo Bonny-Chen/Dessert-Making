@@ -14,5 +14,5 @@ but also imports a speech recognition model to interact with users.
 
 [Youtube](https://www.youtube.com/watch?v=9HVaIl_yeyM)
 ## Run Program
-  Downloads dessert.apk on your Android Device!
-    import dessert.unitypakage in Unity
+* Downloads dessert.apk on your Android Device!
+* import dessert.unitypakage in Unity
